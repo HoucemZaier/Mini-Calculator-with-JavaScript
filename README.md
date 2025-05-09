@@ -1,16 +1,16 @@
-J'ai récemment créé une mini-calculatrice simple à l'aide d'HTML, CSS et JavaScript. Ce projet m'a permis de renforcer mes compétences en manipulation du DOM et en gestion des événements pour effectuer des calculs en temps réel.
+I recently created a simple mini-calculator using HTML, CSS, and JavaScript. This project helped me strengthen my skills in DOM manipulation and event handling to perform real-time calculations.
 
-Caractéristiques :
+Features:
 
-✅ Effectuer des opérations de base : addition, soustraction, multiplication, division
+✅ Perform basic operations: addition, subtraction, multiplication, division
 
-✅ Calcul de pourcentage
+✅ Calculate percentages
 
-✅ Réinitialisation avec le bouton "C"
+✅ Reset with the "C" button
 
-✅ Interface utilisateur minimaliste et fonctionnelle
+✅ Minimalist and functional user interface
 
-Ce petit projet illustre comment JavaScript peut être utilisé pour créer des outils interactifs et pratiques directement dans le navigateur.
+This small project demonstrates how JavaScript can be used to create interactive and practical tools directly in the browser.
 
 ![Capture d'écran 2025-05-09 180340](https://github.com/user-attachments/assets/173eac55-18df-4b5e-b98c-f832c7fcfcd2)
 ![Capture d'écran 2025-05-09 180352](https://github.com/user-attachments/assets/d57ae1bc-1285-488e-ac4e-5a9450d75cbb)
