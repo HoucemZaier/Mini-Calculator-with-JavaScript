@@ -12,7 +12,7 @@ Features 🛠️ :
 
 This small project demonstrates how JavaScript can be used to create interactive and practical tools directly in the browser.
 
-🔗 [Live Demo]()
+🔗 [Live Demo](https://houcemzaier.github.io/Mini-Calculator-with-JavaScript/)
 
 
 ![Capture d'écran 2025-05-09 180340](https://github.com/user-attachments/assets/173eac55-18df-4b5e-b98c-f832c7fcfcd2)
