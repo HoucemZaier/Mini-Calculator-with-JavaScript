@@ -1,6 +1,6 @@
 I recently created a simple mini-calculator using HTML, CSS, and JavaScript. This project helped me strengthen my skills in DOM manipulation and event handling to perform real-time calculations.
 
-Features:
+Features 🛠️ :
 
 ✅ Perform basic operations: addition, subtraction, multiplication, division
 
